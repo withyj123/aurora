@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/withyj123/aurora
+  GHCR_REPO: ghcr.io/withyj123/chatapi
 
 jobs:
   main:
